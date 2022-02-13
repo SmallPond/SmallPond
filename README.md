@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm a OS developer, and I'd like to make some contributions for OS open source and share some thoughts on my blog and github.
+I'm an OS developer, and I'd like to make some contributions for OS open source and share some thoughts on my blog and github.
 
 ✍️  I wrote dev articles on <a href="https://www.dingmos.com" target="_blank">My Blog</a>
 
