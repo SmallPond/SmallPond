@@ -31,5 +31,15 @@ I'm an OS developer, and I'd like to make some contributions for OS open source 
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [如何有效展现你的技术能力](https://www.dingmos.com/index.php/archives/90/)
+- [技术写作的九个技巧](https://www.dingmos.com/index.php/archives/70/)
+- [我的自平衡莱洛三角形](https://www.dingmos.com/index.php/archives/45/)
+- [Linux 内核 | CPU 状态管理](https://www.dingmos.com/index.php/archives/35/)
+- [Linux 内核 | 内核启动 cmdline, early_param 和 initcall](https://www.dingmos.com/index.php/archives/34/)
+- [计算机是如何启动的？从未上电到操作系统启动](https://www.dingmos.com/index.php/archives/31/)
+- [我的红白机模拟器](https://www.dingmos.com/index.php/archives/29/)
+- [Linux 内核 | 内存管理——Slab 分配器](https://www.dingmos.com/index.php/archives/23/)
+- [Linux 内核| 内核通知链机制](https://www.dingmos.com/index.php/archives/18/)
+- [Linux 内核 | 内核镜像分析方法](https://www.dingmos.com/index.php/archives/17/)
 <!-- BLOG-POST-LIST:END -->
 
