@@ -30,3 +30,6 @@ I'm an OS developer, and I'd like to make some contributions for OS open source 
 
 **📝 Blog posts:**
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
