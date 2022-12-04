@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux 内核 | CPU 热插拔](https://www.dingmos.com/index.php/archives/117/)
 - [如何有效展现你的技术能力](https://www.dingmos.com/index.php/archives/90/)
 - [技术写作的九个技巧](https://www.dingmos.com/index.php/archives/70/)
 - [我的自平衡莱洛三角形](https://www.dingmos.com/index.php/archives/45/)
@@ -42,6 +43,5 @@ Here are some ideas to get you started:
 - [我的红白机模拟器](https://www.dingmos.com/index.php/archives/29/)
 - [Linux 内核 | 内存管理——Slab 分配器](https://www.dingmos.com/index.php/archives/23/)
 - [Linux 内核| 内核通知链机制](https://www.dingmos.com/index.php/archives/18/)
-- [Linux 内核 | 内核镜像分析方法](https://www.dingmos.com/index.php/archives/17/)
 <!-- BLOG-POST-LIST:END -->
 
