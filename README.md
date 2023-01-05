@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux 内核 | CPU 热插拔](https://www.dingmos.com/index.php/archives/117/)
+- [Linux 内核 | CPU 热插拔（Hotplug）](https://www.dingmos.com/index.php/archives/117/)
 - [如何有效展现你的技术能力](https://www.dingmos.com/index.php/archives/90/)
 - [技术写作的九个技巧](https://www.dingmos.com/index.php/archives/70/)
 - [我的自平衡莱洛三角形](https://www.dingmos.com/index.php/archives/45/)
