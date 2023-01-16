@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [X-Knob：smart konb 的 X-TRACK UI 实现智能旋钮](https://www.dingmos.com/index.php/archives/125/)
 - [Linux 内核 | CPU 热插拔（Hotplug）](https://www.dingmos.com/index.php/archives/117/)
 - [如何有效展现你的技术能力](https://www.dingmos.com/index.php/archives/90/)
 - [技术写作的九个技巧](https://www.dingmos.com/index.php/archives/70/)
@@ -42,6 +43,5 @@ Here are some ideas to get you started:
 - [计算机是如何启动的？从未上电到操作系统启动](https://www.dingmos.com/index.php/archives/31/)
 - [我的红白机模拟器](https://www.dingmos.com/index.php/archives/29/)
 - [Linux 内核 | 内存管理——Slab 分配器](https://www.dingmos.com/index.php/archives/23/)
-- [Linux 内核| 内核通知链机制](https://www.dingmos.com/index.php/archives/18/)
 <!-- BLOG-POST-LIST:END -->
 
