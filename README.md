@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [X-Knob：smart konb 的 X-TRACK UI 实现智能旋钮](https://www.dingmos.com/index.php/archives/125/)
+- [X-Knob：基于无刷电机的力反馈智能旋钮](https://www.dingmos.com/index.php/archives/125/)
 - [Linux 内核 | CPU 热插拔（Hotplug）](https://www.dingmos.com/index.php/archives/117/)
 - [如何有效展现你的技术能力](https://www.dingmos.com/index.php/archives/90/)
 - [技术写作的九个技巧](https://www.dingmos.com/index.php/archives/70/)
