@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux | 一次 flock 实现多进程互斥的踩坑记录](https://www.dingmos.com/index.php/archives/142/)
 - [X-Knob：基于无刷电机的力反馈智能旋钮](https://www.dingmos.com/index.php/archives/125/)
 - [Linux 内核 | CPU 热插拔（Hotplug）](https://www.dingmos.com/index.php/archives/117/)
 - [如何有效展现你的技术能力](https://www.dingmos.com/index.php/archives/90/)
@@ -42,6 +43,5 @@ Here are some ideas to get you started:
 - [Linux 内核 | 内核启动 cmdline, early_param 和 initcall](https://www.dingmos.com/index.php/archives/34/)
 - [计算机是如何启动的？从未上电到操作系统启动](https://www.dingmos.com/index.php/archives/31/)
 - [我的红白机模拟器](https://www.dingmos.com/index.php/archives/29/)
-- [Linux 内核 | 内存管理——Slab 分配器](https://www.dingmos.com/index.php/archives/23/)
 <!-- BLOG-POST-LIST:END -->
 
