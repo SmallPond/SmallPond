@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux &amp;amp; SPDK | 谨慎使用 UIO 驱动 NVMe](https://www.dingmos.com/index.php/archives/144/)
+- [Linux &amp;amp; SPDK | 谨慎使用 UIO 驱动 NVMe SSD](https://www.dingmos.com/index.php/archives/144/)
 - [Linux | 一次 flock 实现多进程互斥的踩坑记录](https://www.dingmos.com/index.php/archives/142/)
 - [X-Knob：基于无刷电机的力反馈智能旋钮](https://www.dingmos.com/index.php/archives/125/)
 - [Linux 内核 | CPU 热插拔（Hotplug）](https://www.dingmos.com/index.php/archives/117/)
