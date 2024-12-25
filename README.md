@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [SPDK | 如何实现虚拟地址到物理地址的转换](https://www.dingmos.com/index.php/archives/155/)
 - [NVMe｜PRP 和 SGL 数据传输方式](https://www.dingmos.com/index.php/archives/152/)
 - [Linux &amp;amp; SPDK | 谨慎使用 UIO 驱动 NVMe SSD](https://www.dingmos.com/index.php/archives/144/)
 - [Linux | 一次 flock 实现多进程互斥的踩坑记录](https://www.dingmos.com/index.php/archives/142/)
@@ -42,6 +43,5 @@ Here are some ideas to get you started:
 - [技术写作的九个技巧](https://www.dingmos.com/index.php/archives/70/)
 - [我的自平衡莱洛三角形](https://www.dingmos.com/index.php/archives/45/)
 - [Linux 内核 | CPU 状态管理](https://www.dingmos.com/index.php/archives/35/)
-- [Linux 内核 | 内核启动 cmdline, early_param 和 initcall](https://www.dingmos.com/index.php/archives/34/)
 <!-- BLOG-POST-LIST:END -->
 
