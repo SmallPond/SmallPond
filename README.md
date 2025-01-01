@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
-- [SPDK | 如何实现虚拟地址到物理地址的转换](https://www.dingmos.com/index.php/archives/155/)
+- [SPDK | 如何实现地址转换](https://www.dingmos.com/index.php/archives/155/)
 - [NVMe｜PRP 和 SGL 数据传输方式](https://www.dingmos.com/index.php/archives/152/)
 - [Linux &amp;amp; SPDK | 谨慎使用 UIO 驱动 NVMe SSD](https://www.dingmos.com/index.php/archives/144/)
 - [Linux | 一次 flock 实现多进程互斥的踩坑记录](https://www.dingmos.com/index.php/archives/142/)
