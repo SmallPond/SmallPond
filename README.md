@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [我做了一个不一样的桌面机器人——故事篇](https://www.dingmos.com/index.php/archives/165/)
 - [SPDK | 如何实现地址转换](https://www.dingmos.com/index.php/archives/155/)
 - [NVMe｜PRP 和 SGL 数据传输方式](https://www.dingmos.com/index.php/archives/152/)
 - [Linux &amp;amp; SPDK | 谨慎使用 UIO 驱动 NVMe SSD](https://www.dingmos.com/index.php/archives/144/)
@@ -42,6 +43,5 @@ Here are some ideas to get you started:
 - [如何有效展现你的技术能力](https://www.dingmos.com/index.php/archives/90/)
 - [技术写作的九个技巧](https://www.dingmos.com/index.php/archives/70/)
 - [我的自平衡莱洛三角形](https://www.dingmos.com/index.php/archives/45/)
-- [Linux 内核 | CPU 状态管理](https://www.dingmos.com/index.php/archives/35/)
 <!-- BLOG-POST-LIST:END -->
 
