@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [我有主角光环吗——观诡秘之主等动画有感](https://www.dingmos.com/index.php/archives/169/)
 - [Linux | CentOS 7 多队列盘分配 CPU 不均问题分析](https://www.dingmos.com/index.php/archives/167/)
 - [我做了一个不一样的桌面机器人——故事篇](https://www.dingmos.com/index.php/archives/165/)
 - [SPDK | 如何实现地址转换](https://www.dingmos.com/index.php/archives/155/)
@@ -42,6 +43,5 @@ Here are some ideas to get you started:
 - [X-Knob：基于无刷电机的力反馈智能旋钮](https://www.dingmos.com/index.php/archives/125/)
 - [Linux 内核 | CPU 热插拔（Hotplug）](https://www.dingmos.com/index.php/archives/117/)
 - [如何有效展现你的技术能力](https://www.dingmos.com/index.php/archives/90/)
-- [技术写作的九个技巧](https://www.dingmos.com/index.php/archives/70/)
 <!-- BLOG-POST-LIST:END -->
 
