@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 **📝 Blog posts:**
 
 <!-- BLOG-POST-LIST:START -->
+- [X86 架构上乐呵呵，ARM 架构下炸了锅](https://www.dingmos.com/index.php/archives/173/)
 - [一段&amp;quot;理论上没问题&amp;quot;的代码，在 ARM 上炸了](https://www.dingmos.com/index.php/archives/171/)
 - [我有主角光环吗——观诡秘之主等动画有感](https://www.dingmos.com/index.php/archives/169/)
 - [Linux | CentOS 7 多队列盘分配 CPU 不均问题分析](https://www.dingmos.com/index.php/archives/167/)
@@ -42,6 +43,5 @@ Here are some ideas to get you started:
 - [Linux &amp;amp; SPDK | 谨慎使用 UIO 驱动 NVMe SSD](https://www.dingmos.com/index.php/archives/144/)
 - [Linux | 一次 flock 实现多进程互斥的踩坑记录](https://www.dingmos.com/index.php/archives/142/)
 - [X-Knob：基于无刷电机的力反馈智能旋钮](https://www.dingmos.com/index.php/archives/125/)
-- [Linux 内核 | CPU 热插拔（Hotplug）](https://www.dingmos.com/index.php/archives/117/)
 <!-- BLOG-POST-LIST:END -->
 
