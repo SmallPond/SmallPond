@@ -28,9 +28,15 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
-![Github Stats](profile/stats.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
+  <img src="profile/stats.svg" alt="Github Stats" />
+</picture>
 
-![Top Languages](profile/top-langs.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
+  <img src="profile/top-langs.svg" alt="Top Languages" />
+</picture>
 
 **📝 Blog posts:**
 
